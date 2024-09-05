@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arvian Randitya</h1>
-<h3 align="center">informatics engineering students who are interested in web programming and internet of things</h3>
+<h3 align="center">Informatics engineering students who are interested in web programming and internet of things</h3>
 
 
 -  🌱 I’m currently learning **C++, Python, Web programming, Arduino**
